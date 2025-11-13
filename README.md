@@ -16,10 +16,10 @@ These labs show how to transform unstructured text into structured, meaningful d
 | **Lab** | **Title / Topic** | **Description** |
 |----------|------------------|-----------------|
 | **Lab 1** | Building NLP Pipeline (Text Preprocessing) | Implemented tokenization, stemming, lemmatization, stop word removal, POS tagging, dependency parsing, and named entity recognition. |
-| **Lab 2** | Text Classification | Coming soon |
-| **Lab 3** | Sentiment Analysis | Coming soon |
-| **Lab 4** | Word Embeddings and Vectorization | Coming soon |
-| **Lab 5** | NLP Model Evaluation | Coming soon |
+| **Lab 2** | Understanding & Analyzing Words, Phrases, and Clauses | Covered phrase chunking with NLTK, clause identification with spaCy, and hierarchical syntax trees. |
+| **Lab 3** | *To be updated* |  |
+| **Lab 4** | *To be updated* |  |
+| **Lab 5** | *To be updated* |  |
 
 ---
 
