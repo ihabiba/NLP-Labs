@@ -18,7 +18,7 @@ These labs show how to transform unstructured text into structured, meaningful d
 | **Lab 1** | Building NLP Pipeline (Text Preprocessing) | Implemented tokenization, stemming, lemmatization, stop word removal, POS tagging, dependency parsing, and named entity recognition. |
 | **Lab 2** | Understanding & Analyzing Words, Phrases, and Clauses | Covered phrase chunking with NLTK, clause identification with spaCy, and hierarchical syntax trees. |
 | **Lab 3** | Feature Engineering: Converting Text into Numerical Representations | Implemented one-hot encoding, N-grams, TF-IDF, and trained word embeddings (CBOW & Skip-gram) with T-SNE visualization.  |
-| **Lab 4** | *To be updated* |  |
+| **Lab 4** | Text Classification with Machine Learning | Implemented text cleaning and preprocessing, applied Bag-of-Words and TF-IDF vectorization, trained multiple classifiers (Naive Bayes, SVM, Logistic Regression, Random Forest), and evaluated their performance on spam and news classification tasks. |
 | **Lab 5** | *To be updated* |  |
 
 ---
