@@ -22,7 +22,7 @@ These labs show how to transform unstructured text into structured, meaningful d
 | **Lab 5** | Text Summarization: Extractive & Abstractive Methods | Implemented TextRank and LexRank for extractive summarization, built an Encoder–Decoder Seq2Seq model for abstractive summarization, and evaluated results using ROUGE metrics. |
 | **Lab 6** | Topic Modeling and Text Classification | Applied Latent Dirichlet Allocation (LDA) for topic modeling on the 20 Newsgroups dataset and integrated topic distributions into a supervised text classification pipeline with performance evaluation and interpretation. |
 | **Lab 7** | Text Clustering with Unsupervised Learning | Implemented text clustering using TF-IDF features with K-Means and Agglomerative (Hierarchical) Clustering, applied PCA for dimensionality reduction, and visualized clustering results on the 20 Newsgroups dataset. |
-| **Lab 8** | *To be updated* |  |
+| **Lab 8** | Text-to-Speech (TTS) and Translation | Implemented multi-language text translation using Google Translate API and converted translated text into speech using gTTS, with options for automatic translation to all supported languages or user-selected language conversion and audio file download. |
 | **Lab 9** | *To be updated* |  |
 
 
