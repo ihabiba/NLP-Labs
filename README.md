@@ -23,8 +23,7 @@ These labs show how to transform unstructured text into structured, meaningful d
 | **Lab 6** | Topic Modeling and Text Classification | Applied Latent Dirichlet Allocation (LDA) for topic modeling on the 20 Newsgroups dataset and integrated topic distributions into a supervised text classification pipeline with performance evaluation and interpretation. |
 | **Lab 7** | Text Clustering with Unsupervised Learning | Implemented text clustering using TF-IDF features with K-Means and Agglomerative (Hierarchical) Clustering, applied PCA for dimensionality reduction, and visualized clustering results on the 20 Newsgroups dataset. |
 | **Lab 8** | Text-to-Speech (TTS) and Translation | Implemented multi-language text translation using Google Translate API and converted translated text into speech using gTTS, with options for automatic translation to all supported languages or user-selected language conversion and audio file download. |
-| **Lab 9** | *To be updated* |  |
-
+| **Lab 9** | LLM-based NLP Application | Implemented a menu-driven NLP application using multiple LLMs (FLAN-T5, BART, GPT-2) to compare text generation, summarization, and question answering. Demonstrated how model training objectives affect output quality, control, and reliability. |
 
 ---
 
